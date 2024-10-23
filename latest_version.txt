@@ -1,0 +1,2 @@
+1.0.0
+https://github.com/your_username/MyAppUpdates/releases/latest/download/new_app.exe
